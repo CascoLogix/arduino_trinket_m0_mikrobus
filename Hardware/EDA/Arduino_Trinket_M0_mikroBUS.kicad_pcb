@@ -3,7 +3,7 @@
   (general
     (links 67)
     (no_connects 0)
-    (area 60.884999 31.674999 99.135001 101.675001)
+    (area 45.184287 23.97 111.025715 109.380001)
     (thickness 1.6)
     (drawings 27)
     (tracks 136)
@@ -1752,7 +1752,7 @@
   )
 
   (gr_line (start 72.39 82.55) (end 87.63 82.55) (angle 90) (layer F.SilkS) (width 0.127))
-  (gr_text CL-ARDMB-02 (at 80.01 100.33) (layer F.SilkS)
+  (gr_text CL-ARDMB-04 (at 80.01 100.33) (layer F.SilkS)
     (effects (font (size 1.016 1.016) (thickness 0.2032)))
   )
   (gr_text "Arduino Trinket M0\nmikroBUS Dev Board" (at 80.01 94.996) (layer F.SilkS)
